@@ -4,3 +4,6 @@
 [submodule "frontend"]
 	path = frontend
 	url = https://github.com/Alim15/PetProject-frontend.git
+[submodule "mobile"]
+	path = mobile
+	url = https://github.com/Alim15/PetProject-mobile.git
